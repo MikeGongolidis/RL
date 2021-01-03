@@ -2,10 +2,10 @@
 You can find the lectures and the description of the exercise under _https://www.davidsilver.uk/teaching/_  
 
 ### Action Value tables visualization:
-
+<br>
 Over time visualization of the State Value function for Monte Carlo Approach for 50000 episodes.  
 
-Final State Value function for Sarsa(1) and Sarsa(1)-coarse coding approximation.  
+Final State Value function for Sarsa(1) and Sarsa(1)-coarse coding approximation for 1000 episodes.  
 
 More details for the implementation and the environment (simple21env.py), as well as MSE errors and lamda differences in the corresponding notebook (Simple21.ipynb).  
 
