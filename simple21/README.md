@@ -3,6 +3,12 @@ You can find the lectures and the description of the exercise under _https://www
 
 ### Action Value tables visualization:
 
-| Monte Carlo | Sarsa(λ) | Sarsa(λ) - AV approximation |
-| :---         |     :---:      |          ---: |
+Over time visualization of the State Value function for Monte Carlo Approach for 50000 episodes.  
+
+Final State Value function for Sarsa(1) and Sarsa(1)-coarse coding approximation.  
+
+More details for the implementation and the environment, as well as MSE errors and lamda differences in the corresponding notebook.  
+
+| Monte Carlo | Sarsa(1) | Sarsa(1) - AV approximation |
+| :---:         |     :---:      |          :---: |
 | ![](MC_Qtable.gif)   | ![](Sarsa_Q.png)    | ![](CoarseCoding.png)    |
