@@ -7,8 +7,10 @@ Over time visualization of the State Value function for Monte Carlo Approach for
 
 Final State Value function for Sarsa(1) and Sarsa(1)-coarse coding approximation for 1000 episodes.  
 
-More details for the implementation and the environment (simple21env.py), as well as MSE errors and lamda differences in the corresponding notebook (Simple21.ipynb).  
 
 | Monte Carlo | Sarsa(1) | Sarsa(1) - AV approximation |
 | :---:         |     :---:      |          :---: |
-| ![](MC_Qtable.gif)   | ![](Sarsa_Q.png)    | ![](CoarseCoding.png)    |
+| ![](MC_Qtable.gif)   | ![](Sarsa_Q.png)    | ![](CoarseCoding.png)    |  
+
+More details for the implementation and the environment (simple21env.py), as well as MSE errors and lamda differences in the corresponding notebook (Simple21.ipynb).  
+
