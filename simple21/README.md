@@ -2,7 +2,7 @@
 You can find the lectures and the description of the exercise under _https://www.davidsilver.uk/teaching/_  
 
 ### Action Value tables visualization:
-<br>
+<hr>___</hr>
 Over time visualization of the State Value function for Monte Carlo Approach for 50000 episodes.  
 
 Final State Value function for Sarsa(1) and Sarsa(1)-coarse coding approximation for 1000 episodes.  
