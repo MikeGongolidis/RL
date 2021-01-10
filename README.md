@@ -2,7 +2,8 @@
 
 Currently this repo includes:  
 + Simple21 exercise.  
++ Cartpole environment with REINFORCE approach.
 
 To be added:
-+ Cartpole environment with different approaches.
++ More approaches for Cartpole.
 
