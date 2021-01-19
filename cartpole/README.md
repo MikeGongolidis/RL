@@ -5,4 +5,5 @@
 <hr></hr>  
 
 1. REINFORCE
+2. Deep Q learning
 
