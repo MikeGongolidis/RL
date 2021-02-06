@@ -6,4 +6,5 @@
 
 1. REINFORCE
 2. Deep Q learning
+3. Advantage Actor Critic
 
